@@ -23,7 +23,7 @@ Backend service for NASA Farm Navigators, an educational game that integrates NA
 - Provide educational feedback explaining data and outcomes
 
 ## Tech Stack
-*[Node.js, Python/Flask, database, etc.]*
+- **Node.js + Express**
 
 ## API Endpoints
 *[To be defined based on game requirements]*
